@@ -11,7 +11,7 @@
 
 ### Demo 1: Creating a Report with Power BI Desktop
 
-1. Ensure the **MT17B-WS2016-NAT**, **20778B-MIA-DC** and **20778B-MIA-SQL** virtual machines are running, log on to **20778B-MIA-SQL** as **ADVENTUREWORKS\\Student** with the password **Pa55w.rd**.
+1. Ensure the **MT17B-WS2016-NAT**, **20778C-MIA-DC** and **20778C-MIA-SQL** virtual machines are running, log on to **20778C-MIA-SQL** as **ADVENTUREWORKS\\Student** with the password **Pa55w.rd**.
 
 2. In the **D:\\Demofiles\\Mod02** folder, run **Setup.cmd** as Administrator.
 
