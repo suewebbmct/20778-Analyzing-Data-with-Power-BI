@@ -29,4 +29,4 @@ It is strongly recommended that MCTs and Partners access these materials and in 
 
 GitHub should not be used to discuss technical content in the course, or how to prep. It is specifically to address changes in the labs.
 
-- To address general comments about the course & demos or how to prepare for 20778, please use the MCT forums at https://borntolearn.mslearn.net/mct/general/f/225. This is the MCT Readiness forum for discussions, news, etc. to help you prepare to teach courses and let you collaborate with other instructors.
+- To address general comments about the course & demos or how to prepare for 20778, please use the MCT forums at https://www.microsoft.com/en-us/learning/mct-courseware-forum.aspx. This is the MCT Readiness forum for discussions, news, etc. to help you prepare to teach courses and let you collaborate with other instructors.
