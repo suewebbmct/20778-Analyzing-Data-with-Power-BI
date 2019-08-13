@@ -171,7 +171,7 @@
 
 1. In Power BI Desktop, on the **Home** tab, click the **Get Data** arrow, and then click **Web**.
 
-2. In the **From Web** dialog box, in the **URL** box, type **http://www.imdb.com/chart/top**, and then click **OK**.
+2. In the **From Web** dialog box, in the **URL** box, type **https://www.imdb.com/chart/top**, and then click **OK**.
 
 3. In the **Navigator** window, select the **Table 0** check box, and then click **Edit**.
 
