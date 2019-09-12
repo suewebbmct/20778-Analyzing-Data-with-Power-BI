@@ -29,15 +29,17 @@
 
 8. In the **SQL Server database** window, in the **Server** box, type the URL of the Azure server **\<*Server Name*\>.database.windows.net** (where \<*Server Name*\> is the name of the server that you created).
 
-9. In the **Database (optional)** box, type **AdventureWorksLT**, and then click **OK**.
+9. In the **Database (optional)** box, type **AdventureWorksLT**.
+10. In the **Data Connectivity mode**, select **DirectQuery**, and then click **OK**.
 
-10. In the **SQL Server database** dialog box, on the **Database** tab, in the **User name** box, type **Student**.
+11. In the **SQL Server database** dialog box, on the **Database** tab, in the **User name** box, type **Student**.
 
-11. In the **Password** box, type **Pa55w.rd**, and then click **Connect**.
+12. In the **Password** box, type **Pa55w.rd**, and then click **Connect**.
 
-12. In the **Navigator** dialog box, select the **SalesLT.Customer**, **SalesLT.SalesOrderDetail**, and **SalesLT.SalesOrderHeader** check boxes, and then click **Load**.
+13. In the **Navigator** dialog box, select the **SalesLT.Customer**, **SalesLT.SalesOrderDetail**, and **SalesLT.SalesOrderHeader** check boxes, and then click **Load**.
 
-13. In the **FIELDS** pane, notice that the three tables have been added. When the report is published to the Power BI service, the tables are combined into a single dataset.
+14. In the **FIELDS** pane, notice that the three tables have been added. When the report is published to the Power BI service, the tables are combined into a single dataset.
+15. The connection is now a DirectQuery connection. The data has not been imported and you are always looking at current data.
 
 #### View relationships between the tables
 
