@@ -33,7 +33,7 @@
 
 10. If the **SQL Server database** dialog box appears, click **Database**. In the **Username** box, type **Student**, in the **Password** box, type **Pa55w.rd**, and then click **Connect**.
 
-11. In the **Navigator** window, select the **SalesLT.SalesOrderDetail** check box, and then click **Edit**.
+11. In the **Navigator** window, select the **SalesLT.SalesOrderDetail** check box, and then click **Transform Data**.
 
 12. On the Ribbon, in the **Query** group, click **Advanced Editor**. The window opens to display the query code. Note that no transformations have been applied yet. Click **Cancel**.
 
@@ -89,7 +89,7 @@
 
 3. In the **Open** dialog box, browse to the **D:\\Demofiles\\Mod04\\Demo** folder, click **Sales Matrix.xlsx**, and then click **Open**.
 
-4. In the **Navigator** dialog box, select the **Sales** check box, and then click **Edit**.
+4. In the **Navigator** dialog box, select the **Sales** check box, and then click **Transform Data**.
 
 5. In the **Untitled - Power Query Editor** dialog box, in the **Queries** pane, click **Sales**.
 
@@ -173,7 +173,7 @@
 
 2. In the **From Web** dialog box, in the **URL** box, type **https://www.imdb.com/chart/top**, and then click **OK**.
 
-3. In the **Navigator** window, select the **Table 0** check box, and then click **Edit**.
+3. In the **Navigator** window, select the **Table 0** check box, and then click **Transform Data**.
 
 4. In Power Query Editor, right-click the left-most column, and click **Remove**.
 

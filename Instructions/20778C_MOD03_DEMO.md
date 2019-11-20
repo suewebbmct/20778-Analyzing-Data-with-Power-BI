@@ -140,7 +140,7 @@
 
 3. Expand **Advanced options**, and in the **SQL statement (optional, required database)** box, type **SELECT * FROM [Production].[Product]**, and then click **OK**.
 
-4. In the **MIA-SQL: AdventureWorks** window, a preview of the data is displayed, and then click **Edit**.
+4. In the **MIA-SQL: AdventureWorks** window, a preview of the data is displayed, and then click **Transform Data**.
 
 5. In Power Query Editor, in the **ProductSubcategoryID** column, click the filter icon, and then click **Remove Empty**.
 
