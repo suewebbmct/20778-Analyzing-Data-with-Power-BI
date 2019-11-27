@@ -47,7 +47,7 @@
 
 17. In the **Navigator** dialog box, select the **FactInternetSales** check box.
 
-18. Click **Select Related Tables**, and then click **Edit**.
+18. Click **Select Related Tables**, and then click **Transform Data**.
 
 19. If the **Connection Settings** dialog box appears, leave **Import** selected, and then click **OK**.
 
